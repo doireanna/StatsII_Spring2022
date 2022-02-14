@@ -1,0 +1,5 @@
+"my_ks_test(rand_cau, 0.05)"
+"H0 is that the data are normally distributed."
+"D = 0.134728"
+"p-value = 0.003802"
+"Reject H0 at the 0.050000 significance level"
